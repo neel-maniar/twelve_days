@@ -1,5 +1,5 @@
 [package]
-name = "twelve_days"
+name = "neel_twelve_days"
 version = "0.1.0"
 edition = "2024"
 description = "Prints the lyrics to the twelve days of Christmas"
