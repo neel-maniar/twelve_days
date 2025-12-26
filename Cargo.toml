@@ -2,5 +2,8 @@
 name = "twelve_days"
 version = "0.1.0"
 edition = "2024"
+description = "Prints the lyrics to the twelve days of Christmas"
+repository = "https://github.com/neel-maniar/twelve_days"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
